@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+3e74bd9a68cf264f0e74ca93354ce243 plugin/ThreeDSynth_artefacts/JuceLibraryCode/ThreeDSynth_AU/PkgInfo
+ac114e2adaf40ee547b1834561ee5d85 plugin/ThreeDSynth_artefacts/JuceLibraryCode/ThreeDSynth_Standalone/PkgInfo
+73f47d9478511e72d2771a42fd09f924 plugin/ThreeDSynth_artefacts/JuceLibraryCode/ThreeDSynth_VST3/PkgInfo
